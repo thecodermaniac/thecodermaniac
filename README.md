@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aritra Mondal</h1>
 <h3 align="center">A chad facinated by technology</h3>
 
-- 🌱 I’m currently learning **Skitlearn, Pandas, Deep learning, Machine Learning techniques.**
+- 🌱 Learning and Practising **MERN** stack.
 
-- 👯 I’m looking to collaborate on **Machine learning projects.**
+- 👯 I’m looking to collaborate on **Full stack web devlopment projects.**
 
-- 💬 Ask me about **Python, Machine learning**
+- 💬 Ask me about **React, Web dev, Backend**
 
 - 📫 How to reach me **LinkedIn**
 
-- ⚡ Fun fact **I am a programmer ;)**
+- ⚡ Fun fact **I love exercing ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

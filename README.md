@@ -3,7 +3,7 @@
 
 - 🌱 Learning and Practising **MERN** stack.
 
-- 👯 I’m looking to collaborate on **Full stack web devlopment projects.**
+- 👯 I’m looking to collaborate on ** Web devlopment projects.**
 
 - 💬 Ask me about **React, Web dev, Backend**
 

@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Web dev, Backend**
 
-- 📫 How to reach me **LinkedIn**
+- 📫 How to reach me **LinkedIn** click on **https://www.linkedin.com/in/aritra-mondal-66a974179/**
 
 - ⚡ Fun fact **I love exercing ;)**
 

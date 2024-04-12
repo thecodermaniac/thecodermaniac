@@ -23,11 +23,15 @@
       </tr>
   </thead>
   <tbody> 
-  
+  <tr>
+      <td> <b>Full-Stack Developer</b> </td>
+      <td><a href="https://revmaxx.co/"><b>RevMaxx AI</b></a></td>
+      <td> <b>April 2024 - Present</b> </td>
+   </tr>
    <tr>
-      <td> <b>Software Engineer Intern</b> </td>
+      <td> <b>Frontend Developer</b> </td>
       <td><a href="https://app.nordl.io/"><b>Nord Finance</b></a></td>
-      <td> <b>June 2023 - Present </b> </td>
+      <td> <b>June 2023 - April 2024 </b> </td>
    </tr>  
    <tr>
       <td> <b> Fullstack Developer Intern </b> </td>

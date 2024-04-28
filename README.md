@@ -26,7 +26,7 @@
   <tr>
       <td> <b>Full-Stack Developer</b> </td>
       <td><a href="https://revmaxx.co/"><b>RevMaxx AI</b></a></td>
-      <td> <b>April 2024 - Present</b> </td>
+      <td> <b>April 2024 - May 2024</b> </td>
    </tr>
    <tr>
       <td> <b>Frontend Developer</b> </td>

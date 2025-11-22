@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭  Learning and Practising React and ReactNative<br>👯  I’m looking to collaborate on ** Web devlopment projects.**<br>🌱 I’m currently a CSE undergrad <br>💬 Ask me about React, Web dev, Backend<br>⚡ AI enthusiast
+🔭  Learning and Practising Backend and System Design👯  I’m looking to collaborate on ** Anything that's interesting.**<br>🌱 I’m currently a CSE Graduate <br>💬 Ask me about Database, Systems, Backend<br>⚡ AI enthusiast
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://aritra-mondal.netlify.app/)
@@ -23,8 +23,13 @@
       </tr>
   </thead>
   <tbody> 
+    <tr>
+      <td> <b>Java Backend Developer</b> </td>
+      <td><a href="https://www.tcs.com/"><b>TCS</b></a></td>
+      <td> <b>April 2025 - Present</b> </td>
+   </tr>
   <tr>
-      <td> <b>Full-Stack Developer</b> </td>
+      <td> <b>Full-Stack Developer(Contractual)</b> </td>
       <td><a href="https://revmaxx.co/"><b>RevMaxx AI</b></a></td>
       <td> <b>April 2024 - May 2024</b> </td>
    </tr>

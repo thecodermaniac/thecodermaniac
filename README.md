@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭  Learning and Practising Backend and System Design👯  I’m looking to collaborate on ** Anything that's interesting.**<br>🌱 I’m currently a CSE Graduate <br>💬 Ask me about Database, Systems, Backend<br>⚡ AI enthusiast
+🔭  Learning and Practising Backend and System Design👯 <br>  I’m looking to collaborate on ** Anything that's interesting.**<br>🌱 CSE Graduate <br>💬 Ask me about Database, Systems, Backend<br>⚡ AI enthusiast
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://aritra-mondal.netlify.app/)
